@@ -108,10 +108,7 @@ function disabilitarBotao(boolean){
 
 
 }
-function botaoApagar(){
-  let tamanho = display.innerText.length
-  display.innerText = display.innerText.substring(0,tamanho-1);
-}
+
 
 function displaynum(numero) {
 
